@@ -1,0 +1,3 @@
+[submodule "src/smart_home_msgs"]
+	path = src/smart_home_msgs
+	url = http://github.com/rnvandemark/smart_home_msgs.git
