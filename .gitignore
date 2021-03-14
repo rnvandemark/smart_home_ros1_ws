@@ -5,5 +5,3 @@ install/
 install_isolated/
 devel/
 devel_isolated/
-log/
-src/CMakeLists.txt
