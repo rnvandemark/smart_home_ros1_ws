@@ -1,1 +1,1 @@
-# smart_home_ros1_ws
+# smart_home_ws
