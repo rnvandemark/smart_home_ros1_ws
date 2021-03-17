@@ -1,7 +1,6 @@
 .catkin_workspace
+.catkin_tools/
 build/
-build_isolated/
 install/
-install_isolated/
 devel/
-devel_isolated/
+logs/
