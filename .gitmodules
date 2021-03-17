@@ -4,3 +4,6 @@
 [submodule "src/smart_home_hub"]
 	path = src/smart_home_hub
 	url = https://github.com/rnvandemark/smart_home_hub.git
+[submodule "src/smart_home_arduino"]
+	path = src/smart_home_arduino
+	url = https://github.com/rnvandemark/smart_home_arduino.git
